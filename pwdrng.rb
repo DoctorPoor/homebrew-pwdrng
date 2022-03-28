@@ -1,8 +1,8 @@
 class Pwdrng < Formula
   desc "Simple command-line tool to generate passwords"
   homepage "https://github.com/DoctorPoor/pwdrng"
-  url "https://github.com/DoctorPoor/pwdrng/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "03d8f06d1e8ba14e11b91b63523d9608f904c5ed4c6e6c0591dfda1bea14df94"
+  url "https://github.com/DoctorPoor/pwdrng/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "2114895a1c48ee79776e8871cce1775931632dc1cbd03cea3dbdb4b205486c3b"
   license "MIT"
   head "https://github.com/DoctorPoor/pwdrng.git"
 
